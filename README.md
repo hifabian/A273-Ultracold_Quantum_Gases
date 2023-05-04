@@ -1,5 +1,5 @@
 # A273-Ultracold_Quantum_Gases
-Project code for lecture A273.
+Project code for lecture A273 (January to April 2022).
 
 The primary file for the project is `interactive_solver.ipynb`.
 
